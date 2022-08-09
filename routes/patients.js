@@ -1,6 +1,6 @@
 const express = require('express')
 const router = express.Router()
-const patients = require('../database/contollers/patients')
+const patients = require('../database/controllers/patients')
 
 
 
